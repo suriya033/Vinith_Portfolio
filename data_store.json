@@ -1,0 +1,281 @@
+{
+  "profile": {
+    "name": "VINITH S",
+    "title": "Machine Learning Engineer",
+    "headline": "Building Intelligent Systems with Machine Learning & AI",
+    "summary": "An aspiring Machine Learning Engineer with experience in machine learning algorithms, data preprocessing, feature engineering, model development, and evaluation.",
+    "aboutText": "Vinith S is an aspiring Machine Learning Engineer with knowledge of machine learning algorithms, data preprocessing, feature engineering, model development, and evaluation. He is proficient in Python, SQL, Scikit-learn, Pandas, and NumPy, with experience building predictive models and practical AI/ML applications.",
+    "email": "vinithsakaravarthi01@gmail.com",
+    "phone": "+91 8903021295",
+    "location": "Chennai, India",
+    "githubUrl": "https://github.com/vinithsakaravarthi",
+    "linkedinUrl": "https://linkedin.com/in/vinith-sakaravarthi",
+    "availableForWork": true
+  },
+  "experiences": [
+    {
+      "id": "exp-1",
+      "company": "Gradtwin",
+      "position": "Machine Learning Intern",
+      "period": "Jul 2026 – Sep 2026",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30",
+      "responsibilities": [
+        "Developed and evaluated machine learning models using Python and Scikit-learn for data-driven prediction and analysis.",
+        "Performed data preprocessing, cleaning, feature engineering, and exploratory data analysis to prepare datasets for model development.",
+        "Used Pandas, NumPy, Matplotlib, and Scikit-learn for data analysis, visualization, and machine learning model development."
+      ],
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "EDA"
+      ],
+      "order": 1
+    },
+    {
+      "id": "exp-2",
+      "company": "DLK Software Solutions",
+      "position": "IoT Intern",
+      "period": "Jul 2024 – Aug 2024",
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-31",
+      "responsibilities": [
+        "Gained hands-on experience with Arduino Uno and embedded systems.",
+        "Worked with IoT fundamentals, including sensor interfacing and microcontroller programming.",
+        "Performed data collection and basic data handling using connected sensors."
+      ],
+      "technologies": [
+        "Arduino Uno",
+        "IoT",
+        "Embedded Systems",
+        "Sensors",
+        "Microcontrollers"
+      ],
+      "order": 2
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "AI-Based Intelligent Code Review System for Students & IT",
+      "description": "Developed an AI-based code review system to analyze source code and identify potential bugs and coding issues.",
+      "longDescription": "Designed the solution to help students and IT professionals identify code issues and improve programming practices. Analyzed source code to detect programming errors and provide actionable suggestions for improvement.",
+      "features": [
+        "Static code analysis & bug detection",
+        "Actionable AI improvement suggestions",
+        "Designed for students & IT professionals",
+        "Syntax & potential security flaw highlights"
+      ],
+      "technologies": [
+        "Python",
+        "Machine Learning",
+        "AST Parser",
+        "Code Scanning AI",
+        "Scikit-Learn"
+      ],
+      "githubUrl": "https://github.com/vinithsakaravarthi/ai-code-reviewer",
+      "liveUrl": "#code-reviewer-demo",
+      "category": "AI / Code Analysis",
+      "published": true,
+      "order": 1
+    },
+    {
+      "id": "proj-2",
+      "title": "Breast Cancer Prediction Using Machine Learning",
+      "description": "Developed a machine learning model to predict whether a breast tumor is benign or malignant based on diagnostic features.",
+      "longDescription": "Applied comprehensive machine learning workflows to classify diagnostic feature measurements into benign or malignant categories with high accuracy, adhering strictly to diagnostic feature standards.",
+      "features": [
+        "Data preprocessing & cleaning",
+        "Feature selection & engineering",
+        "Exploratory Data Analysis (EDA)",
+        "Model training & cross-validation",
+        "Classification performance evaluation"
+      ],
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn"
+      ],
+      "githubUrl": "https://github.com/vinithsakaravarthi/breast-cancer-ml-prediction",
+      "liveUrl": "#cancer-predictor-demo",
+      "category": "Machine Learning / Healthcare",
+      "published": true,
+      "order": 2
+    },
+    {
+      "id": "proj-3",
+      "title": "AI-Powered English Tutor",
+      "description": "Developed an AI-powered English learning application that provides personalized practice in grammar, vocabulary, speaking, and writing.",
+      "longDescription": "An interactive smart tutor designed to assist learners through AI conversations, real-time grammar feedback, vocabulary enhancement, and writing practice evaluation.",
+      "features": [
+        "Grammar practice & scoring",
+        "Vocabulary expansion modules",
+        "Speaking & pronunciation practice",
+        "Writing structure feedback",
+        "AI conversational assistant & instant feedback"
+      ],
+      "technologies": [
+        "Python",
+        "NLP",
+        "Machine Learning",
+        "Speech Recognition",
+        "Text Analytics"
+      ],
+      "githubUrl": "https://github.com/vinithsakaravarthi/ai-english-tutor",
+      "liveUrl": "#english-tutor-demo",
+      "category": "AI / Natural Language Processing",
+      "published": true,
+      "order": 3
+    }
+  ],
+  "skills": [
+    {
+      "id": "sk-1",
+      "name": "Python",
+      "category": "Programming",
+      "order": 1,
+      "visible": true
+    },
+    {
+      "id": "sk-2",
+      "name": "SQL",
+      "category": "Programming",
+      "order": 2,
+      "visible": true
+    },
+    {
+      "id": "sk-3",
+      "name": "NumPy",
+      "category": "Libraries & Frameworks",
+      "order": 3,
+      "visible": true
+    },
+    {
+      "id": "sk-4",
+      "name": "Pandas",
+      "category": "Libraries & Frameworks",
+      "order": 4,
+      "visible": true
+    },
+    {
+      "id": "sk-5",
+      "name": "Scikit-learn",
+      "category": "Libraries & Frameworks",
+      "order": 5,
+      "visible": true
+    },
+    {
+      "id": "sk-6",
+      "name": "Matplotlib",
+      "category": "Libraries & Frameworks",
+      "order": 6,
+      "visible": true
+    },
+    {
+      "id": "sk-7",
+      "name": "Seaborn",
+      "category": "Libraries & Frameworks",
+      "order": 7,
+      "visible": true
+    },
+    {
+      "id": "sk-8",
+      "name": "Data Analysis",
+      "category": "Data Science",
+      "order": 8,
+      "visible": true
+    },
+    {
+      "id": "sk-9",
+      "name": "Exploratory Data Analysis",
+      "category": "Data Science",
+      "order": 9,
+      "visible": true
+    },
+    {
+      "id": "sk-10",
+      "name": "Data Cleaning",
+      "category": "Data Science",
+      "order": 10,
+      "visible": true
+    },
+    {
+      "id": "sk-11",
+      "name": "Feature Selection",
+      "category": "Data Science",
+      "order": 11,
+      "visible": true
+    },
+    {
+      "id": "sk-12",
+      "name": "Data Visualization",
+      "category": "Data Science",
+      "order": 12,
+      "visible": true
+    },
+    {
+      "id": "sk-13",
+      "name": "Git",
+      "category": "Tools",
+      "order": 13,
+      "visible": true
+    },
+    {
+      "id": "sk-14",
+      "name": "GitHub",
+      "category": "Tools",
+      "order": 14,
+      "visible": true
+    },
+    {
+      "id": "sk-15",
+      "name": "Jupyter Notebook",
+      "category": "Tools",
+      "order": 15,
+      "visible": true
+    },
+    {
+      "id": "sk-16",
+      "name": "Google Colab",
+      "category": "Tools",
+      "order": 16,
+      "visible": true
+    },
+    {
+      "id": "sk-17",
+      "name": "Visual Studio Code",
+      "category": "Tools",
+      "order": 17,
+      "visible": true
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "M.I.E.T Engineering College",
+      "location": "Trichy",
+      "degree": "B.Tech",
+      "field": "Artificial Intelligence and Data Science",
+      "period": "2022 – 2026",
+      "cgpa": "8.0"
+    }
+  ],
+  "messages": [],
+  "resume": {
+    "fileUrl": "/assets/Vinith_S_ML_Engineer_Resume.pdf",
+    "fileName": "Vinith_S_ML_Engineer_Resume.pdf",
+    "uploadedAt": "2026-09-17T13:01:44.842Z",
+    "active": true
+  },
+  "adminUser": {
+    "email": "admin@viniths.com",
+    "passwordHash": "$2a$10$w8.mN.jL7eGkC9W8T5Y08eQ.z8J6i9q1c2v3b4n5m6"
+  },
+  "viewsCount": 465
+}
